@@ -1,8 +1,10 @@
 # Parque Nacional Biodiversidade
 
+**Objetivo**
+
 O objetivo deste projeto é analisar dados de biodiversidade do Serviço de Parques Nacionais, particularmente em torno de várias espécies observadas em diferentes locais de parques nacionais.
 
-Perguntas que este projeto procurou responder:
+**Perguntas a serem respondidas no projeto**
 
 - Qual é a distribuição do estado de conservação das espécies?
 - Certos tipos de espécies têm maior probabilidade de estarem ameaçados?
